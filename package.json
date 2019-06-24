@@ -1,0 +1,20 @@
+{
+  "name": "JS-algorithm",
+  "version": "1.0.0",
+  "description": "algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changxianglin/JS-algorithm.git"
+  },
+  "keywords": [],
+  "author": "xianglin <281532612@qq.com> (zhourong.clube)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/changxianglin/JS-algorithm/issues"
+  },
+  "homepage": "https://github.com/changxianglin/JS-algorithm#readme"
+}
